@@ -41,7 +41,7 @@ utterances:
   repo: "alloy-labs/alloy-labs.github.io"
   issue-term: "pathname"
   label: "comment"
-  theme: "icy-dark"
+  theme: "github-dark"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
